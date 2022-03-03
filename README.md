@@ -1,5 +1,5 @@
 Title
-# CNN
+# Convolutional Neural Network
 
 Installation 
 Files of this repository are for local usage. The actual application is to be found on https://imgclss.herokuapp.com 
